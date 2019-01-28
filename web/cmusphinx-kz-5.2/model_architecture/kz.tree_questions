@@ -1,0 +1,95 @@
+WDBNDRY_B
+WDBNDRY_E
+WDBNDRY_S
+WDBNDRY_I
+SILENCE   SIL
+QUESTION0_0_R  b bj ch d dj ea f fj gh gj h kh kj mj p s sh sj t tj ue uy v vj z zh
+QUESTION0_1_R  b bj ea fj h kh mj p t tj ue uy
+QUESTION0_2_R  ch d dj f gh gj kj s sh sj v vj z zh
+QUESTION0_3_R  s sh sj z zh
+QUESTION0_4_R  ch d dj f gh gj kj v vj
+QUESTION0_5_R  dj gj
+QUESTION0_6_R  ch d f gh kj v vj
+QUESTION0_7_R  d gh v
+QUESTION0_8_R  gh v
+QUESTION0_9_R  ch f kj vj
+QUESTION0_10_R  ch f vj
+QUESTION0_11_R  f vj
+QUESTION0_12_R  a c e g i ie j k l lj m n ng nj o pj r rj u uo y zj
+QUESTION0_13_R  a e g i ie j k r rj y zj
+QUESTION0_14_R  a
+QUESTION0_15_R  e g i ie j k r rj y zj
+QUESTION0_16_R  g i ie j k r rj y zj
+QUESTION0_17_R  j zj
+QUESTION0_18_R  g i ie k r rj y
+QUESTION0_19_R  g i ie k rj y
+QUESTION0_20_R  g ie rj
+QUESTION0_21_R  g ie
+QUESTION0_22_R  i k y
+QUESTION0_23_R  c l lj m n ng nj o pj u uo
+QUESTION0_24_R  c l o pj u uo
+QUESTION0_25_R  l u
+QUESTION0_26_R  c o pj uo
+QUESTION0_27_R  c pj uo
+QUESTION0_28_R  c uo
+QUESTION0_29_R  lj m n ng nj
+QUESTION0  b bj c ch d dj f fj gh gj h i k kh kj lj m mj n ng nj p pj r rj s sh sj t tj ue uo uy v vj y z zh zj
+QUESTION1  c ch m n ng p pj s sj z zj
+QUESTION2  b bj d dj f fj gh gj h i k kh kj lj mj nj r rj sh t tj ue uo uy v vj y zh
+QUESTION3  b bj d dj f fj gh gj h i k kj lj mj nj r rj t tj ue uo uy v vj y
+QUESTION4  b bj d fj h k t tj
+QUESTION5  b bj d
+QUESTION6  fj h k t tj
+QUESTION7  fj h k t
+QUESTION8  fj h t
+QUESTION9  fj h
+QUESTION10  dj f gh gj i kj lj mj nj r rj ue uo uy v vj y
+QUESTION11  dj gj i lj mj nj uo
+QUESTION12  f gh kj r rj ue uy v vj y
+QUESTION13  f gh kj ue uy v vj y
+QUESTION14  f gh ue uy v vj y
+QUESTION15  f ue uy v vj y
+QUESTION16  f ue uy v
+QUESTION17  f uy v
+QUESTION18  uy v
+QUESTION19  vj y
+QUESTION20  r rj
+QUESTION21  kh sh zh
+QUESTION22  a e ea g ie j l o u
+QUESTION23  a ea
+QUESTION24  e g ie j l o u
+QUESTION25  e j
+QUESTION26  g ie l o u
+QUESTION27  g l o u
+QUESTION28  g l u
+QUESTION29  g l
+QUESTION2_0_L  fj k n
+QUESTION2_1_L  k
+QUESTION2_2_L  fj n
+QUESTION2_3_L  fj
+QUESTION2_4_L  n
+QUESTION2_5_L  a b bj c ch d dj e ea f g gh gj h i ie j kh kj l lj m mj ng nj o p pj r rj s sh sj t tj u ue uo uy v vj y z zh zj
+QUESTION2_6_L  bj ch d h kh p pj rj s sh sj t tj v z zh zj
+QUESTION2_7_L  rj s sh sj tj z zh zj
+QUESTION2_8_L  bj ch d h kh p pj t v
+QUESTION2_9_L  h kh
+QUESTION2_10_L  bj ch d p pj t v
+QUESTION2_11_L  bj ch pj t v
+QUESTION2_12_L  t v
+QUESTION2_13_L  bj ch pj
+QUESTION2_14_L  bj ch
+QUESTION2_15_L  d p
+QUESTION2_16_L  a b c dj e ea f g gh gj i ie j kj l lj m mj ng nj o r u ue uo uy vj y
+QUESTION2_17_L  a ea gh nj
+QUESTION2_18_L  b c dj e f g gj i ie j kj l lj m mj ng o r u ue uo uy vj y
+QUESTION2_19_L  c e ie j lj m ng r u y
+QUESTION2_20_L  c ie lj m ng r u y
+QUESTION2_21_L  e j
+QUESTION2_22_L  b dj f g gj i kj l mj o ue uo uy vj
+QUESTION2_23_L  dj gj i kj mj ue uo
+QUESTION2_24_L  b f g l o uy vj
+QUESTION2_25_L  f g l o uy vj
+QUESTION2_26_L  f g o uy vj
+QUESTION2_27_L  f uy vj
+QUESTION2_28_L  f uy
+QUESTION2_29_L  g o

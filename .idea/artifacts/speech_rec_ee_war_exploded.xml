@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="speech_rec_ee:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/speech_rec_ee_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="speech_rec_ee" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: edu.cmu.sphinx:sphinx4-core:5prealpha-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-math3:3.2" />
+          <element id="library" level="project" name="Maven: edu.cmu.sphinx:sphinx4-data:5prealpha-SNAPSHOT" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="speech_rec_ee/web/Web" />
+    </root>
+  </artifact>
+</component>
